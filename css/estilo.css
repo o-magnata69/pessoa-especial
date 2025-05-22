@@ -1,0 +1,14 @@
+body {
+  background-color:salmon; /
+}
+
+h1 {
+  color:antiquewhite;
+  text-align: center;
+}
+
+p {
+    color:antiquewhite;
+  font-family: verdana;
+  font-size: 20px;
+}
